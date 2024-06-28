@@ -1,3 +1,4 @@
+
 @agenda = [
   {nome: "João", telefone: "1234-5678"},
   {nome: "Maria", telefone: "1234-5678"},
@@ -86,3 +87,5 @@ loop do
     puts "Opção inválida!"
   end
 end
+
+
